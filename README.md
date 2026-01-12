@@ -9,8 +9,8 @@ This is a **simple vocabulary learning app** built with **Flutter**, intended as
 The app demonstrates the **core mechanics of a vocabulary quiz**:
 
 - Shows words in random order  
-- Users can **tap to reveal the meaning ("Δες τη λύση")**  
-- A **"Επόμενη" button** cycles through words  
+- Users can **reveal the meaning by pressing the button "Δες τη λύση"**  
+- The **button "Επόμενη"** cycles through words  
 - **End screen** appears when all words are completed  
 
 > This is just a **basic prototype**. The planned full application will help Greek-speaking students learn Russian using:
@@ -48,3 +48,4 @@ cd Vocabulary
 flutter pub get
 flutter run -d chrome 
 ```
+
